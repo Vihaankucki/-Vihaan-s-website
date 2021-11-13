@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+#apps{
+    background-color:aqua;
+    
+        
+}
+h1{
+    text-decoration: underline;
+}
+img{
+    height: 500px;
+    width:500px;
+    margin: 100px;
+}
+
+#games{
+    background-color: darkorange;
+    
+}
+
+#chatbot{
+    background-color:darkslateblue;
+}
